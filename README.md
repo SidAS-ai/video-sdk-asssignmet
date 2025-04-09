@@ -11,7 +11,7 @@ Features
 📝 Audio preprocessing and normalization
 📈 Training with mixed precision and checkpoint resumption
 
-DRIVE LINK FOR THE FINE TUNED MODEL =https://drive.google.com/drive/folders/1PKkOfswCnG6P_uIsQZ71a1rR32I9Hbz8?usp=drive_link
+
 
 Prerequisites
 
